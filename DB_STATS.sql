@@ -3,7 +3,7 @@ set pages 50000
 
 spool DB_STATS.txt
 
-@DB_VERSION_INFO
-teste
+@DB_VERSION_INFO.SQL
+
 spool off
 exit
